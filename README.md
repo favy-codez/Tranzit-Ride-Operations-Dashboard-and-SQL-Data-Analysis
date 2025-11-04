@@ -27,8 +27,7 @@ Queries were written to analyze relationships between drivers, riders, and trips
 ---
 
 ## Dashboard Link
-
-View the interactive Power BI/Excel dashboard here: [**Tranzit-Ride Operations Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZTllYjExMzctNDQ1NC00ZDdhLWI1MjEtMWNiNTczMTNlNDZjIiwidCI6IjE5NmRlODRmLTZhNDctNGYxOC04Y2E2LTAzMGU3ODA3ZDY4MiJ9)
-View the documentation here: [**Tranzit-Ride Operations SQL Analysis **](https://medium.com/@ezeliorafavour/tranzit-ride-operations-dashboard-and-sql-data-analysis-ceed07d3a83a)
+- View the interactive Power BI/Excel dashboard here: [**Tranzit-Ride Operations Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZTllYjExMzctNDQ1NC00ZDdhLWI1MjEtMWNiNTczMTNlNDZjIiwidCI6IjE5NmRlODRmLTZhNDctNGYxOC04Y2E2LTAzMGU3ODA3ZDY4MiJ9)
+- View the documentation here: [**Tranzit-Ride Operations SQL Analysis**](https://medium.com/@ezeliorafavour/tranzit-ride-operations-dashboard-and-sql-data-analysis-ceed07d3a83a)
 
 
